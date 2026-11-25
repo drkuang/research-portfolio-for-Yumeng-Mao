@@ -21,10 +21,3 @@ A static GitHub Pages portfolio for my PhD application, presenting my research b
 7. Selected Experimental Results
 8. Spatial & Single-cell Multi-omics
 9. Contact
-
-## Publish with GitHub Pages
-1. Create a repository (public to share the link with supervisors, or private for a controlled share).
-2. Upload `index.html`, the `assets/` folder, `CV_ZhengKuang.pdf`, the notebook, and this README to the repository root.
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**, branch `main`, folder `/(root)`, then Save.
-5. After deployment, open the URL shown on the Pages settings page, e.g. `https://YOUR-USERNAME.github.io/research-portfolio/`.
